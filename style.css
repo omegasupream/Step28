@@ -1,0 +1,11 @@
+body
+{
+    margin: 0;
+}
+
+.red
+{
+    width: 50%;
+    height: 100vh;
+    background-color: red;
+}
